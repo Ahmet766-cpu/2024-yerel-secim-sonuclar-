@@ -1,1 +1,5 @@
-[Yeni Metin Belgesi.txt](https://github.com/user-attachments/files/16574207/Yeni.Metin.Belgesi.txt)
+git init
+git remote add origin file:///C:/Users/Ahmet%20AKPINAR/Desktop/kod.git
+git add .
+git commit -m "İlk commit"
+git push -u origin main
